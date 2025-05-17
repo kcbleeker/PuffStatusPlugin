@@ -1,0 +1,13 @@
+name: PuffStatusPlugin
+version: 1.0.0
+main: com.example.PuffStatusPlugin
+api-version: 1.20
+description: Lets players set a custom colored status that appears before their name in chat and the tab list.
+authors:
+  - YourName
+commands:
+  status:
+    description: Set your status message.
+    usage: /status <your status message>
+permissions:
+  # (No permissions enforced by the plugin)
