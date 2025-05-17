@@ -58,7 +58,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.example.PuffStatusPlugin</mainClass>
+                            <mainClass>dev.kcbleeker.puffstatusplugin.PuffStatusPlugin</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

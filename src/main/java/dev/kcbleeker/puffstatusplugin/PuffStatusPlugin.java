@@ -1,4 +1,4 @@
-package com.example;
+package dev.kcbleeker.puffstatusplugin;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.event.Listener;
